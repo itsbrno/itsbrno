@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=20EDEF&width=435&lines=Ol%C3%A1%2C%F0%9F%91%8B+Meu+nome+%C3%A9+Bruno+Alencar;Bem-Vindo+ao+meu+Perfil" alt="Typing SVG" /></a>
 
 <!--
 **itsbrno/itsbrno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
